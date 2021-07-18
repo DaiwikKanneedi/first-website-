@@ -1,0 +1,3 @@
+//<main><div><ul><li><a href="/articles/graphiccard.html"></a></li></ul></div></main>
+//" <a href="/articles/graphiccard.html"><img src="/Images/Which Graphics card should in My budget.png" style="border: 100px; border-radius: 100px; box-shadow: 10px; " alt=""></a>
+//<a href="/articles/ygraphiccrdrshasraise.html"><img src="/Images/Why the NVIDIA Graphics card so expensive.png" alt="why teh NVIdia Graphics card do expensive" style="border:100px; border-radius: 100px"></a>
